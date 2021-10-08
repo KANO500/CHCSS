@@ -1,0 +1,2 @@
+rgb(165, 147, 194)  mora top
+rgb(207, 69, 34)    naranja menu
